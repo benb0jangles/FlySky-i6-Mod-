@@ -3,6 +3,13 @@
 
 A collection of software modifications for the FlySky i6, some useful, some experiment. All use of this repository is experimental and you use at your own risk. But, progress is being made.
 
+Project goals:
+- Increase number of channels (using PPM or ibus)
+- Enable Mavlink/APM Telemetry (using ia6b receiver)
+- Ability to edit TX Voltage reading & alarm (allowing lithium battery power)
+- Edit duration of 1 minute 'inactive' alarm
+- Functional Flight Timer
+
 /------------------------------------------------------------------------------------------------------------------------------------/
 
 At present we have the following achievements using the FlySky i6:
