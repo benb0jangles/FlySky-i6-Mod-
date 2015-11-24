@@ -1,5 +1,5 @@
 # FlySky-i6-Mod-
-![alt tag](/FlySky-i6-Mod-/Images/mod-i6-snap.jpg)
+![alt tag](./FlySky-i6-Mod-/Images/mod-i6-snap.jpg)
 
 A collection of software modifications for the FlySky i6, some useful, some experiment. All use of this repository is experimental and you use at your own risk. But, progress is being made.
 
