@@ -1,5 +1,5 @@
 # FlySky-i6-Mod-
-![](FlySky-i6-Mod-/Images for readme/mod-i6-snap.jpg)
+![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/mod-i6-snap.jpg)
 
 A collection of software modifications for the FlySky i6, some useful, some experiment. All use of this repository is experimental and you use at your own risk. But, progress is being made.
 
