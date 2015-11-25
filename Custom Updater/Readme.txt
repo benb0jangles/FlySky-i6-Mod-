@@ -1,6 +1,7 @@
 Time and work required.
 
-In the meantime why not try this uploader and provide me with some feedback: http://www.st.com/web/en/catalog/tools/PF257525
+In the meantime why not try this uploader and provide me with some feedback: 
+http://www.st.com/web/en/catalog/tools/PF257525
 
 There are some guide to STM32 flashing here:
 http://www.olliw.eu/storm32bgc-wiki/How_to_flash_firmware
