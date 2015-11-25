@@ -12,3 +12,12 @@ Connection: SPI/I2C? (Not checked)
 EEprom: Two-wire Serial EEprom > 24C128A
 Size: 128K
 Datasheet: http://www.fremontmicrousa.com/pdf/FT24C128A.pdf
+
+Trainer Port Socket:
+Type: SVideo 4 PIN Mini Din?
+M/F: Female
+
+Trainer Port adapter (Sold seperately):
+Type: SVideo 4 PIN Mini Din?
+M/F: Male
+
