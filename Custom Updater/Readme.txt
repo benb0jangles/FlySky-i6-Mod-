@@ -1,8 +1,9 @@
 Time and work required.
 
-In the meantime why not try this uploader and provide me with some feedback: 
-http://www.st.com/web/en/catalog/tools/PF257525
+In the meantime why not try this SDK and provide me with some feedback: 
+Kinetis SDK: http://www.freescale.com/tools/software-and-tools/run-time-software/kinetis-software-and-tools/development-platforms-with-mbed/software-development-kit-for-kinetis-mcus:KINETIS-SDK?tid=redKINETIS_SDK
 
-There are some guide to flashing here:
-http://www.olliw.eu/storm32bgc-wiki/How_to_flash_firmware
-http://www.southquay3d.com/index.php?route=news/article&news_id=9
+
+
+There are some guide to flashing Kinetis MCU here:
+http://mcuoneclipse.com/2014/06/15/tutorial-diy-kinetis-sdk-project-with-eclipse-startup/
