@@ -1,1 +1,1 @@
-Time and work required.
+2 different BIN files from the FSi6 Updater
