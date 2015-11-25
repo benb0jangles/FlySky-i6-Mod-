@@ -1,1 +1,1 @@
-Time and work required.
+3 different BIN files from the TGYi6 Updater
