@@ -1,1 +1,1 @@
-Time and work required.
+6 different BIN files from the NovaX Updater
