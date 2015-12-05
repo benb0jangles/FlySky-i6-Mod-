@@ -14,7 +14,8 @@ Project goals:
 
 Notable thanks to contributors:
 Povlhp, ThomHpl, DBorthwick, Benbojangles
-/------------------------------------------------------------------------------------------------------------------------------------/
+
+/-----------------------------------------------------------------------------------------------------/
 
 At present we have the following achievements using the FlySky i6:
 - We are able to flash different official firmware to the i6 and explore each new firmware
