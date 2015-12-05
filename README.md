@@ -10,6 +10,10 @@ Project goals:
 - Edit duration of 1 minute 'inactive' alarm
 - Functional Flight Timer
 
+
+
+Notable thanks to contributors:
+Povlhp, ThomHpl, DBorthwick, Benbojangles
 /------------------------------------------------------------------------------------------------------------------------------------/
 
 At present we have the following achievements using the FlySky i6:
