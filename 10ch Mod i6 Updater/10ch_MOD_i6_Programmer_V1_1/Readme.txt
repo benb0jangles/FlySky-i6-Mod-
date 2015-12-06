@@ -1,4 +1,5 @@
 Firmware V1.1 courtesy of D.Borthwick 06/12/2015
+Updater by Benbojangles
 
 Folder includes:
 - .exe updater containing borthwick 10ch firmware
