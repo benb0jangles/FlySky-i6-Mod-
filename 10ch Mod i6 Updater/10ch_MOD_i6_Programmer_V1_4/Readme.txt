@@ -1,4 +1,4 @@
-Firmware V1.3 courtesy of D.Borthwick 22/12/2015
+Firmware V1.4 courtesy of D.Borthwick 22/12/2015
 Updater by Benbojangles
 
 Folder includes:
