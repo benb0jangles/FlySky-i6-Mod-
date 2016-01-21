@@ -1,4 +1,4 @@
-Firmware V1.5 courtesy of D.Borthwick 22/12/2015
+Firmware V1.5 courtesy of D.Borthwick 21/01/2016
 Updater by Benbojangles
 Packaged by Povlhp
 
