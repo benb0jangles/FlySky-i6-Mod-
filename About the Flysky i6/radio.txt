@@ -1,0 +1,13 @@
+The radio module in the FS-i6 appears to contain two chips:
+One marked:
+A7106
+SMQ511033
+1526G
+Datasheet:
+http://amiccom.weebly.com/uploads/3/9/5/9/3959395/a7106_datasheet_v0.1preliminary.pdf
+
+
+And another one marked:
+2402E
+4012.2
+UF1506
