@@ -1,0 +1,1 @@
+An cross-platform open source command-line updater can be found at https://github.com/mhils/flysky-updater.
