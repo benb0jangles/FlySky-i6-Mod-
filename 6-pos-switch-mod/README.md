@@ -43,6 +43,8 @@ Connect back potentiometer wires.
 
 ## Results
 
+![Ready modification](https://github.com/piodabro/FlySky-i6-Mod-/blob/master/6-pos-switch-mod/ready.jpg)
+
 Now you have 6 position mode switch. Setup replaced VR to mode channel.
 For APM (ArduCopter) modes set End Points to: Low - 80%, High - 70%.
 
