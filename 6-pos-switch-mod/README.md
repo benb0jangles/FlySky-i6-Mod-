@@ -23,7 +23,7 @@
 
 3. Remove the potentiometers knobs and loosen them, then remove potentiometers. You can disconnect them from mainboard.
 
-4. Remove silver cover with FlySky/Turingy logo.
+4. Remove silver cover with FlySky/Turingy logo.<br>
 ![This one :)](https://github.com/piodabro/FlySky-i6-Mod-/blob/master/6-pos-switch-mod/cover.jpg)
 
 5. Remove potentiometer holder marked on a picture but on the second one.
