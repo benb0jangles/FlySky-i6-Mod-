@@ -13,6 +13,8 @@
 
 4. Something to open casing.
 
+5. Soldering station / solder gun / other soldering tool :)
+
 ## How to do this
 
 1. Remove batteries and unscrew all screws on the bottom.
