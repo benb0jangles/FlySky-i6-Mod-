@@ -46,5 +46,7 @@ Connect back potentiometer wires.
 Now you have 6 position mode switch. Setup replaced VR to mode channel.
 For APM (ArduCopter) modes set End Points to: Low - 80%, High - 70%.
 
+You can revert to original look and functionality by soldering back original potentiometer and put it together with silver cover. :)
+
 Have fun.
 
