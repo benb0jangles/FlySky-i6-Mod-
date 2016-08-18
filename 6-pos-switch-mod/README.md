@@ -5,7 +5,7 @@
 ## What you need
 
 1. 6 position 1 pole rotary switch, something like this:
-![](https://github.com/piodabro/FlySky-i6-Mod-/blob/master/6-pos-switch-mod/switch.jpg)
+![Switch](https://github.com/piodabro/FlySky-i6-Mod-/blob/master/6-pos-switch-mod/switch.jpg)
 
 2. Five 1k ohm resistors.
 
@@ -24,6 +24,7 @@
 3. Remove the potentiometers knobs and loosen them, then remove potentiometers. You can disconnect them from mainboard.
 
 4. Remove silver cover with FlySky/Turingy logo.
+![This one :)](https://github.com/piodabro/FlySky-i6-Mod-/blob/master/6-pos-switch-mod/cover.jpg)
 
 5. Remove potentiometer holder marked on a picture but on the second one.
 ![](https://github.com/piodabro/FlySky-i6-Mod-/blob/master/6-pos-switch-mod/made_6pos.jpg)
