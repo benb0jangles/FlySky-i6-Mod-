@@ -9,11 +9,12 @@ Project goals:
 - Ability to edit TX Voltage reading & alarm (allowing lithium battery power)
 - Edit duration of 1 minute 'inactive' alarm
 - Functional Flight Timer
+- RSSI
 
 
 
 Notable thanks to contributors:
-Povlhp, ThomHpl, DBorthwick, Benbojangles
+qba667, Povlhp, ThomHpl, DBorthwick, Benbojangles
 
 /-----------------------------------------------------------------------------------------------------/
 
