@@ -1,7 +1,7 @@
 # FlySky-i6-Mod-
 ![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/mod-i6-snap.jpg)
 
-A collection of software modifications for the FlySky i6, some useful, some experiment. All use of this repository is experimental and you use at your own risk. But, progress is being made. Please also note that this project is now contributed by many developers who deserve lots of recognition for their (free) time, knowledge & effort, so please say thanks to all contributors and not me as a single entity, Thanks.
+A collection of software modifications for the FlySky i6, some useful, some experiment. All use of this repository is experimental and you use at your own risk. But, progress is being made. Please also note that this project is now contributed by many developers/engineers who deserve lots of recognition for their (free) time, knowledge & effort, so please say thanks to all contributors and not me as a single entity, Thanks.
 
 Project goals:
 - Increase number of channels (using PPM or ibus)
