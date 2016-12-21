@@ -15,3 +15,9 @@
 ![setup](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/10ch%20Mavlink%20Mod%20i6%20Updater/ibus-i6-idea2.jpg)
 
 ## Complete this mod, give yourself congratulations! :D
+
+## Future:
+- Use 1 Arduino Pro Micro for both ibus-ppm & mavlink-ibus
+- Ardupilot to support ibus?
+- Ardupilot/Pixhawk supports 8ch (controls + switches), i6 ibus protocol supports 14ch - 6ch for 6 pieces of telemetry data?
+- i6 Bluetooth output via trainer port enabling wireless stream to smartphone?
