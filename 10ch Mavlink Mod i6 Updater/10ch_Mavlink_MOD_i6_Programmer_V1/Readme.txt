@@ -32,5 +32,5 @@ Requires:
 -UART/FTDI cable to flash firmware (Diy adapter: http://dalybulge.blogspot.co.uk/2015/10/turnigyflysky-i6-secret-menu.html)
 (optional)
 -ibus to ppm converter (Diy coverter: https://bitbucket.org/daveborthwick/ibus_pic12f1572)
--ibus to Mavlink Telemetry adapter: 
+-ibus to Mavlink Telemetry adapter: https://github.com/qba667/MAVLinkToIbus
 -APM/Pixhawk flight controller with support
