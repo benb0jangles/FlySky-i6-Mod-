@@ -1,13 +1,29 @@
-10ch (Mavlink Telemetry) Firmware courtesy of qba667
-Updater .exe by Benbojangles
+10ch (Mavlink Telemetry) Firmware courtesy of qba667 (21/12/2016)
+Updater .exe by Benbojangles (21/12/2016)
 
 Folder includes:
 - .exe updater containing qba667 firmware
 - .hex file
 
 The mods are:
-(16/12/2016)
-
+(21/12/2016)
+Temperature
+External Voltage
+Pressure
+Speed
+Altitude
+Flight mode
+Armed
+Distance
+Vertical speed
+Acc X
+Acc Y
+Acc Z
+Climb rate
+Battery current
+Comps heading
+CoG
+GPS status
 
 
 Requires:
@@ -16,4 +32,5 @@ Requires:
 -UART/FTDI cable to flash firmware (Diy adapter: http://dalybulge.blogspot.co.uk/2015/10/turnigyflysky-i6-secret-menu.html)
 (optional)
 -ibus to ppm converter (Diy coverter: https://bitbucket.org/daveborthwick/ibus_pic12f1572)
--flight controller with ibus support
+-ibus to Mavlink Telemetry adapter: 
+-APM/Pixhawk flight controller with support
