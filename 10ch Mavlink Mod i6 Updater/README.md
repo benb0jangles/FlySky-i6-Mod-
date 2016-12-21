@@ -3,7 +3,7 @@
 ## Link to Mavlink to iBus adapter info & setup: 
 (https://github.com/qba667/MAVLinkToIbus)
 
-## Link to PPM to iBus adapter info & setup: 
+## Link to PPM to iBus adapter info & setup (I think optional if using Pixhawk-PPM and only want 8ch): 
 (https://github.com/povlhp/iBus2PPM)
 
 ## Firmware updater .exe: 
