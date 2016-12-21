@@ -2,7 +2,7 @@
 ![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/mod-i6-snap.jpg)
 
 # FlySky-i6-Mod-Telemetry Firmware (Experiment - 21/12/2016)
-![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/Mavlink-screen1.jpg)
+![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/Mavlink-screen-1.jpg)
 
 A collection of software modifications for the FlySky i6, some useful, some experiment. All use of this repository is experimental and you use at your own risk. But, progress is being made. Please also note that this project is now contributed by many developers/engineers who deserve lots of recognition for their (free) time, knowledge & effort, so please say thanks to all contributors and not me as a single entity. Open/Free Devs need hugs too. Thanks :)
 
