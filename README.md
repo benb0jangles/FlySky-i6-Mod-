@@ -1,5 +1,7 @@
 # FlySky-i6-Mod-10ch
 ![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/mod-i6-snap.jpg)
+(https://github.com/benb0jangles/FlySky-i6-Mod-/tree/master/10ch%20Mod%20i6%20Updater/10ch_MOD_i6_Programmer_V1_5)
+#
 
 # FlySky-i6-Mod-Telemetry Firmware (Experiment - 21/12/2016)
 ![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/Mavlink-screen-1.jpg)
