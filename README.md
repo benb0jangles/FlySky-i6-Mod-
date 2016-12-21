@@ -1,4 +1,4 @@
-# FlySky-i6-Mod-
+# FlySky-i6-Mod-10ch
 ![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/mod-i6-snap.jpg)
 
 # FlySky-i6-Mod-Telemetry Firmware (Experiment - 21/12/2016)
