@@ -1,4 +1,4 @@
-## MAVLinkToIbus convertor adapter & New i6 Telemetry Firmware (21/12/2016)
+## MAVLink-To-Ibus convertor adapter & New i6 Telemetry Firmware (21/12/2016)
 
 ## Link to Mavlink to iBus adapter info & setup: 
 (https://github.com/qba667/MAVLinkToIbus)
