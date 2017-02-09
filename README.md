@@ -38,6 +38,7 @@ At present we have the following achievements using the FlySky i6:
 - Experiments using Arduino IDE v1.6.6 are ongoing (https://www.arduino.cc/en/Main/Software), with Teensyduino Add-on (https://www.pjrc.com/teensy/teensyduino.html) (Settings > Board > Teensy LC > 48mhz) (LCD example: ST7565)
 - Flashing under Linux (wine) is possible, but you may need to map wine's COM1 to the actual com port (e.g. /dev/ttyUSB0)
 (https://www.winehq.org/docs/wineusr-guide/misc-things-to-configure#AEN901)
+- There is also a native uploader for Linux, see https://github.com/mhils/flysky-updater
 - If you have interested in learning about the process involved in accessing, reading then reversing firmware I will add links here:
 (http://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/)
 
