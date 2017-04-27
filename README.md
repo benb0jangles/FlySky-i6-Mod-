@@ -9,6 +9,8 @@
 ##
 A collection of software modifications for the FlySky i6, some useful, some experiment. All use of this repository is experimental and you use at your own risk. But, progress is being made. Please also note that this project is now contributed by many developers/engineers who deserve lots of recognition for their (free) time, knowledge & effort, so please say thanks to all contributors and not me as a single entity. Open/Free Devs need hugs too. Thanks :)
 
+**Warning: This firmware will permenantly remap channel 5 and 6 to VRA and VRB when in student mode (e.g. when using with flight simulator). Not even rolling back to flysky origional firmware can undo this**
+
 Project goals:
 - Increase number of channels (using PPM or ibus)
 - Enable Mavlink/APM Telemetry (using ia6b receiver)
