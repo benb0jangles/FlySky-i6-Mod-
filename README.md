@@ -4,8 +4,8 @@
 # FlySky-i6-Mod-10ch
 ![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/mod-i6-snap.jpg)
 #
-# Fsi6 Telemetry/Mavlink Firmware: development
-*Update: After discussion, it is decided that this unique mavlink/telemetry version of the fsi6 firmware is better suited to use Basei6_updater from now on. This means it is a little bit more complicated for the average user to learn to do, but it means that also the user will be able to customise telemetry menu as required before flashing to i6 transmitter (only some telemetry parameters can fit onto screen at one time, so selection of those is necessary before flashing). 
+# Fsi6 Telemetry/Mavlink Firmware: *Special Version*
+*Update: After discussion, it is decided that this unique mavlink/telemetry version of the fsi6 mod firmware is better suited to use Basei6_updater from now on. This means it is a little bit more complicated for the average user to learn to do, but it means that also the user will be able to customise telemetry menu as required before flashing to i6 transmitter (only some telemetry parameters can fit onto screen at one time, so selection of those is necessary before flashing). Users who are uncertain using this version should either learn to use it, or stick to simple Windows .exe (Executable) version which is what everyone seems to use (but new experimental version releases are less frequent).
 #
 Basei6_updater is here: https://github.com/ThomHPL/BaseI6_updater
 #
