@@ -4,7 +4,7 @@
 #
 
 # Fsi6 Telemetry/Mavlink Firmware: development
-*Update: After discussion, it is decided that this mavlink firmware version is better to use Basei6_updater from now on. This means it is a little bit more complicated for the average user to learn to do, but it means that also the user will be able to customise telemetry menu as required before flashing to i6 transmitter (only some telemetry parameters can fit onto screen at one time, so selection of those is necessary before flashing. 
+*Update: After discussion, it is decided that this unique mavlink/telemetry version of the fsi6 firmware version is better suited to use Basei6_updater from now on. This means it is a little bit more complicated for the average user to learn to do, but it means that also the user will be able to customise telemetry menu as required before flashing to i6 transmitter (only some telemetry parameters can fit onto screen at one time, so selection of those is necessary before flashing. 
 #
 Basei6_updater is here: https://github.com/ThomHPL/BaseI6_updater
 #
