@@ -4,7 +4,10 @@
 #
 
 # FlySky-i6-Mod-Telemetry Firmware (Experiment - 21/12/2016)
-*Update: After discussion, it is decided that this mavlink firmware version is better to use Basei6_updater from now on. This means it is a little bit more complicated for the average user to learn to do, but it means that also the user will be able to customise telemetry menu as required before flashing to i6 transmitter (only some telemetry parameters can fit onto screen at one time, so selection of those is necessary before flashing. Basei6_updater is here: https://github.com/ThomHPL/BaseI6_updater
+*Update: After discussion, it is decided that this mavlink firmware version is better to use Basei6_updater from now on. This means it is a little bit more complicated for the average user to learn to do, but it means that also the user will be able to customise telemetry menu as required before flashing to i6 transmitter (only some telemetry parameters can fit onto screen at one time, so selection of those is necessary before flashing. 
+#
+Basei6_updater is here: https://github.com/ThomHPL/BaseI6_updater
+#
 qba667 firmware files:https://github.com/qba667/FlySkyI6 
 #
 Depreciated from 07/05/2017:
