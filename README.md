@@ -1,6 +1,7 @@
 # FlySky-i6-Mod-10ch
 ![](https://github.com/benb0jangles/FlySky-i6-Mod-/blob/master/Images%20for%20readme/mod-i6-snap.jpg)
-(https://github.com/benb0jangles/FlySky-i6-Mod-/tree/master/10ch%20Mod%20i6%20Updater/10ch_MOD_i6_Programmer_V1_5)
+#Latest Version (07/05/2017):
+(https://github.com/benb0jangles/FlySky-i6-Mod-/tree/master/10ch%20hali9%20Updater/10ch_hali9_i6_Programmer_V1)
 #
 
 # Fsi6 Telemetry/Mavlink Firmware: development
