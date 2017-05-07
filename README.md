@@ -1,5 +1,5 @@
 # Latest Version (07/05/2017):
-(https://github.com/benb0jangles/FlySky-i6-Mod-/tree/master/10ch%20hali9%20Updater/10ch_hali9_i6_Programmer_V1)
+(https://github.com/benb0jangles/FlySky-i6-Mod-/tree/master/10ch%20qba667_hali9%20Updater/10ch_qba667_hali9_i6_Programmer_V1)
 #
 RCgroups Discussion here: https://www.rcgroups.com/forums/showthread.php?2486545-FlySky-FS-i6-8-channels-firmware-patch%21/page122
 #
