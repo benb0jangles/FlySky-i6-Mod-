@@ -11,6 +11,8 @@ Basei6_updater is here: https://github.com/ThomHPL/BaseI6_updater
 #
 qba667 firmware .bin files: https://github.com/qba667/MAVLinkToIbus/tree/master/i6/FW 
 #
+Nice Youtube Video Guide: how to flash using .bin files + Basei6 Updater: https://www.youtube.com/watch?v=sCdORlxw8xY&ab_channel=MKmeLab
+#
 Depreciated from 07/05/2017:
 (https://github.com/benb0jangles/FlySky-i6-Mod-/tree/master/10ch%20Mavlink%20Mod%20i6%20Updater)
 ##
