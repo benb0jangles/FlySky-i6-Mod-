@@ -6,7 +6,18 @@ Folder includes:
 - qba667_hali9 .hex file
 
 The mods are:
-<add here>
+10ch_Mavlink_MOD_i6_Programmer_V1
+fix_updater_03_16_21_33
+fix_updater_03_16_21_33_1
+independent sensor type and value
+Pitot sensor
+presure/barometer sensor
+climb sensor
+gps status sensor
+4 byte long LAT, LON, ALT with formating
+armed sensor
+mode sensor
+speed in km\h or m\s
 
 Requires:
 -i6 Transmitter (Turnigy or Flysky)
