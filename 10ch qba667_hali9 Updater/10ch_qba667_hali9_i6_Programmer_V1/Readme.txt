@@ -1,9 +1,9 @@
-Firmware courtesy of hali9 07/05/2017
+Firmware courtesy of qba667 & hali9 07/05/2017
 Updater by Benbojangles
 
 Folder includes:
-- .exe updater containing hali9 firmware
-- hali9 .hex file
+- .exe updater containing qba667 & hali9 firmware
+- qba667_hali9 .hex file
 
 The mods are:
 <add here>
