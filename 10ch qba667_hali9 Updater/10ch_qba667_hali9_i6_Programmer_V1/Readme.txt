@@ -1,5 +1,5 @@
 Firmware courtesy of qba667 & hali9 07/05/2017
-Updater by Benbojangles
+Updater/FWEditing/Git by Benbojangles
 
 Folder includes:
 - .exe updater containing qba667 & hali9 firmware
