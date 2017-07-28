@@ -1,5 +1,7 @@
-# Latest Version (07/05/2017):
-(https://github.com/benb0jangles/FlySky-i6-Mod-/tree/master/10ch%20qba667_hali9%20Updater/10ch_qba667_hali9_i6_Programmer_V1)
+# Latest version available on Release page - console updater by mhils
+https://github.com/qba667/FlySkyI6/releases
+
+![alt text](https://github.com/qba667/FlySkyI6/blob/master/update.png)
 #
 RCgroups Discussion here: https://www.rcgroups.com/forums/showthread.php?2486545-FlySky-FS-i6-8-channels-firmware-patch%21/page122
 #
@@ -11,7 +13,8 @@ RCgroups Discussion here: https://www.rcgroups.com/forums/showthread.php?2486545
 #
 Basei6_updater is here: https://github.com/ThomHPL/BaseI6_updater
 #
-qba667 firmware .bin files: https://github.com/qba667/MAVLinkToIbus/tree/master/i6/FW 
+mhils updater is here: 
+https://github.com/mhils/flysky-updater
 #
 Nice Youtube Video Guide: how to flash using .bin files + Basei6 Updater: https://www.youtube.com/watch?v=sCdORlxw8xY&ab_channel=MKmeLab
 #
@@ -29,10 +32,8 @@ Project goals:
 - Functional Flight Timer
 - RSSI
 
-
-
-Notable thanks to contributors:
-qba667, Povlhp, ThomHpl, DBorthwick, Benbojangles
+Notable thanks to contributors (alphabetical order):
+Benbojangles, DBorthwick, mhils, Povlhp, qba667,ThomHpl
 
 /-----------------------------------------------------------------------------------------------------/
 
