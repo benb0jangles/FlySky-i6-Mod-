@@ -4,7 +4,7 @@ FS-i6
 TGY-i6
 Eachine 250 Racer transmitter
 
-Should you need to use them they located are here.
+Should you need to use them: they are located here.
 
 You need a SWD debugger (Busblaster/Jlink v8) + i6 transmitter internal SWD port
 
