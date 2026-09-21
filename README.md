@@ -1,4 +1,4 @@
-# Latest version available on Release page - console updater by mhils
+# Latest version available on the Release page - console updater by mhils
 https://github.com/qba667/FlySkyI6/releases
 
 ![alt text](https://github.com/qba667/FlySkyI6/blob/master/update.png)
